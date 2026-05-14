@@ -1,0 +1,19 @@
+import * as React from 'react';
+import { Header } from './Header';
+import { Footer } from './Footer';
+
+interface MainLayoutProps {
+  children: React.ReactNode;
+}
+
+export function MainLayout({ children }: MainLayoutProps) {
+  return (
+    <div className="flex min-h-screen flex-col bg-gray-900 font-sans text-gray-100">
+      <Header />
+      <main className="flex-1">
+        {children}
+      </main>
+      <Footer />
+    </div>
+  );
+}

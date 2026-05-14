@@ -1,0 +1,5 @@
+{
+  "name": "MData Explorer",
+  "description": "A minimalist, local-first EXIF metadata viewer with GPS mapping and categorization.",
+  "requestFramePermissions": []
+}
