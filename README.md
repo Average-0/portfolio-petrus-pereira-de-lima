@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 6º período de Ciência da Computação na UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o 6º período de Ciência da Computação na UNICID. Interessado em resolver problemas através da tecnologia, com foco em automação de processos.
  
 * **Habilidades Técnicas:** Python, Selenium.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
@@ -23,14 +23,12 @@ Atualmente cursando o 6º período de Ciência da Computação na UNICID. Sou ap
  
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
  
-#### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  
-#### 🤖 Inteligência Artificial & Ciência de Dados
+#### 🤖 Ciência de Dados
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
  
 ---
  
