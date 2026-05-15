@@ -46,4 +46,4 @@ O projeto foi estruturado para ser uma ferramenta indispensável para entusiasta
 *Figura 3: Fluxo de dados demonstrando o processamento local vs. sincronização de metadados no Firestore.*
 
 ---
-[Voltar ao início](#🛡️-mdata-explorer-local-metadata-engine--global-sync)
+[Voltar ao início](https://github.com/Average-0/portfolio-petrus-pereira-de-lima)
