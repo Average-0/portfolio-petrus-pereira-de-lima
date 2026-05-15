@@ -13,8 +13,8 @@ O **MData Explorer** é uma ferramenta de alta performance para extração e an�
 A plataforma oferece uma experiência híbrida única: análise rápida e anônima por padrão, com a opção de sincronização em nuvem via **Google Firebase** para usuários que desejam manter um histórico persistente e organizado de suas análises em múltiplos dispositivos.
 
 ---
-![Dashboard MData Explorer](https://images.unsplash.com/photo-1551288049-bbda38a5f452?auto=format&fit=crop&q=80&w=1200)
-*Figura 1: Interface principal destacando a área de upload local e o painel de resultados.*
+![Dashboard MData Explorer](./img/principal.jpeg)
+*Figura 1: Interface principal destacando a área de upload local.*
 
 ## 🚀 Tecnologias Utilizadas
 * **Frontend:** React 18 + TypeScript + Vite
@@ -32,8 +32,8 @@ O projeto foi estruturado para ser uma ferramenta indispensável para entusiasta
 * **Filtragem Inteligente:** Busca em tempo real e categorização automática (Info do Arquivo, Câmera, GPS, IPTC, XMP).
 * **Exportação Multiformat:** Download de resultados em JSON ou TXT para integração com outros fluxos de trabalho.
 
-![Histórico e Metadados](https://images.unsplash.com/photo-1558489580-faa74691fdc5?auto=format&fit=crop&q=80&w=1200)
-*Figura 2: Visualização de histórico persistente e filtragem categorizada de metadados.*
+![Histórico e Metadados](./img/historico.jpeg)
+*Figura 2: Visualização de histórico persistente.*
 
 ## 🔧 Como Executar
 1. Clone o repositório.
@@ -42,7 +42,7 @@ O projeto foi estruturado para ser uma ferramenta indispensável para entusiasta
 4. Instale as dependências: `npm install`.
 5. Execute o servidor de desenvolvimento: `npm run dev`.
 
-![Arquitetura de Segurança](https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200)
+![Arquitetura de Segurança](./img/mdata_flow.png)
 *Figura 3: Fluxo de dados demonstrando o processamento local vs. sincronização de metadados no Firestore.*
 
 ---
