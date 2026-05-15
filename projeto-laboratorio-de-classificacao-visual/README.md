@@ -12,8 +12,13 @@ O projeto combina experimentação técnica com análise crítica de impacto soc
 
 ---
 
-![Registro de Falso Positivo](./.github/falso_positivo.png)
+![Registro de Falso Positivo](./img/pessoa.jpeg)
 *Figura 1: Inferência incorreta: modelo classifica com 98% de confiança como "Pessoa Operacional" com base exclusivamente em características visuais superficiais.*
+
+<br>
+
+![Registro de Falso Positivo](./img/Garrafa.jpeg)
+*Figura 2: Inferência sobre objeto inanimado modelo classifica uma garrafa térmica com 100% de confiança como "Pessoa Operacional", evidenciando que o algoritmo aprendeu padrões visuais superficiais e não o conceito real de perfil profissional.*
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -28,7 +33,8 @@ O projeto combina experimentação técnica com análise crítica de impacto soc
 O experimento foi estruturado para evidenciar mecanismos reais de viés algorítmico em sistemas de classificação profissional:
 
 * **Dataset Enviesado (Intencional):** 20 imagens por classe, utilizando homens de terno para "Perfil Liderança" e pessoas com roupas casuais para "Perfil Operacional".
-* **Registro de Falso Positivo:** Classificação incorreta com 93% de confiança, documentando o momento em que o modelo falha por replicar estereótipos do dataset.
+* **Registro de Falso Positivo:** Classificação incorreta com 98% de confiança, documentando o momento em que o modelo falha por replicar estereótipos do dataset.
+* **Teste com Objeto Inanimado:** Garrafa térmica classificada com 100% de confiança como "Pessoa Operacional", evidenciando que o modelo aprendeu padrões visuais e não o conceito de perfil profissional.
 * **Análise de Mecanismo:** Demonstração prática de como características visuais superficiais substituem competência como critério de decisão.
 * **Proposta Human-in-the-loop:** Intervenção de curadoria diversa e auditoria periódica como mitigação do viés antes da implementação.
 
@@ -37,7 +43,7 @@ O experimento foi estruturado para evidenciar mecanismos reais de viés algorít
 
 **Mecanismo do Viés**
 
-A seleção restrita de dados corrompe a lógica do algoritmo porque o modelo aprende apenas os padrões presentes no dataset, e não a realidade em sua complexidade. Quando o sistema recebe somente imagens de homens de terno como "Perfil Liderança" e pessoas com roupas casuais como "Perfil Operacional", ele passa a associar características visuais superficiais: como vestimenta e gênero: a competências profissionais. O algoritmo não avalia capacidade nem contexto: ele replica o estereótipo que o dataset impõe e, com isso, produz uma visão distorcida da realidade. O viés não surge por acidente: ele nasce diretamente das escolhas feitas por quem cuida dos dados.
+A seleção restrita de dados corrompe a lógica do algoritmo porque o modelo aprende apenas os padrões presentes no dataset, e não a realidade em sua complexidade. Quando o sistema recebe somente imagens de homens de terno como "Perfil Liderança" e pessoas com roupas casuais como "Perfil Operacional", ele passa a associar características visuais superficiais como vestimenta e gênero a competências profissionais. O algoritmo não avalia capacidade nem contexto: ele replica o estereótipo que o dataset impõe e, com isso, produz uma visão distorcida da realidade. O experimento com a garrafa térmica ilustra isso de forma direta: classificada com 100% de confiança como "Pessoa Operacional", o objeto expõe que o modelo não aprendeu o conceito de perfil profissional, aprendeu apenas a reconhecer padrões visuais do dataset. O viés não surge por acidente: ele nasce diretamente das escolhas feitas por quem cuida dos dados.
 
 **Consequência Social**
 
@@ -57,4 +63,4 @@ Antes da implementação do modelo, um comitê diverso de pessoas revisa e valid
 
 ---
 
-[Voltar ao início](#-biaslens-visual-classification--algorithmic-bias-lab)
+[Voltar ao início](https://github.com/Average-0/portfolio-petrus-pereira-de-lima)
