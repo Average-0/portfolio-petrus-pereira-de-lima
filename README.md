@@ -10,8 +10,12 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 7º período de Ciência da Computação na UNICID. Interessado em resolver problemas através da tecnologia, com foco em automação de processos.
- 
+Atualmente cursando o 7º semestre de Ciência da Computação na UNICID, com foco em Fundamentos de Inteligência Artificial e Infraestrutura de Tecnologia da Informação. Interessado em resolver problemas através da tecnologia, com foco em automação de processos.
+
+Durante o estágio na Blue BI Solution, tive meu primeiro contato prático com automação utilizando Python e Selenium, desenvolvendo um sistema de envio automático de mensagens no LinkedIn e scripts de extração de dados para planilhas. Essa experiência despertou um interesse real pela área: a possibilidade de eliminar tarefas repetitivas, ganhar escala e liberar tempo para o que realmente importa é o que me motiva a continuar explorando esse caminho.
+
+Meu objetivo é construir uma carreira focada em automação de processos, desenvolvendo soluções que integrem coleta, tratamento e ação sobre dados de forma eficiente. Tenho interesse em evoluir tecnicamente em ferramentas de web scraping, automação de fluxos e integração entre sistemas, sempre buscando aplicar o que aprendo em problemas reais.
+
 * **Habilidades Técnicas:** Python, Selenium.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Estágio na [Blue BI Solution](https://www.bluebisolution.com/), onde desenvolvi um automador de mensagens para o LinkedIn utilizando Selenium.
