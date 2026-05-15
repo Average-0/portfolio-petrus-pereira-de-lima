@@ -14,7 +14,7 @@ A reconstrução prioriza fidelidade estética e funcional: layout dividido entr
 
 ---
 
-![Interface principal do StackEdit Clone](./.github/clone_principal.png)
+![Interface principal do StackEdit Clone](./img/Inicio.jpeg)
 *Figura 1: Interface principal com editor à esquerda, preview renderizado à direita e toolbar de formatação.*
 
 ## 🚀 Tecnologias Utilizadas
@@ -43,7 +43,7 @@ A engenharia reversa assistida por IA se torna plágio quando há reprodução d
 
 Uma proposta para evitar isso é documentar o que foi observado, o que foi alterado e qual problema novo o produto resolve que o original não resolvia. Esse registro cria um rastro de boa-fé e incentiva a inovação incremental sem frear o uso das ferramentas generativas.
 
-![Sidebar e gerenciamento de arquivos](./.github/clone_sidebar.png)
+![Sidebar e gerenciamento de arquivos](./img/sidebar.jpeg)
 *Figura 2: Sidebar com estrutura de arquivos e ícones de ação, fiel ao layout original do StackEdit.*
 
 ## 🔧 Como Executar
@@ -53,8 +53,7 @@ Uma proposta para evitar isso é documentar o que foi observado, o que foi alter
 3. Execute o servidor de desenvolvimento: `npm run dev`.
 4. Acesse `http://localhost:5173` no navegador.
 
-![Barra de status e scroll sincronizado](./.github/clone_status.png)
-*Figura 3: Barra de status em tempo real e sincronização de scroll entre editor e preview.*
+
 
 ---
 
