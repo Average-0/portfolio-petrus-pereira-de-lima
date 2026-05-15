@@ -1,0 +1,8 @@
+{
+  "name": "StackEdit Clone",
+  "description": "A feature-rich Markdown editor with real-time preview, synchronized scrolling, and file management, inspired by StackEdit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
