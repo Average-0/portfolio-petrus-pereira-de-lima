@@ -58,4 +58,4 @@ Uma proposta para evitar isso é documentar o que foi observado, o que foi alter
 
 ---
 
-[Voltar ao início](#-stackedit-clone-real-time-markdown-editor)
+[Voltar ao início](https://github.com/Average-0/portfolio-petrus-pereira-de-lima)
